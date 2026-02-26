@@ -26,10 +26,9 @@ bun ingest.ts # ingest policies
 bun query.ts # query policies
 ```
 
-Or
+Or run cloud Chroma DB directly:
 
 ```bash
-# If using Cloud Chroma DB, directly can run below commands:
 bun ingest.ts # ingest policies
 bun query.ts # query policies
 ```
